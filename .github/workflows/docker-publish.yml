@@ -16,7 +16,7 @@ env:
   # Use docker.io for Docker Hub if empty
   REGISTRY: ''
   # github.repository as <account>/<repo>
-  IMAGE_NAME: yochaude/jekyll-build-pages
+  IMAGE_NAME: jekyll-build-pages
 
 jobs:
   build:
